@@ -9,5 +9,5 @@ This task demonstrates the practical application of AI as a Macro Safety Inspect
 - `macro_utils.h`: Header guard scaffolding with conditional debug logging (`DEBUG_MODE`).
 
 ## AI Tool
-- **Model:** Gemini / ChatGPT
+- **Model:** Gemini 
 - **Roles:** Senior C Developer & Senior C Systems Engineer
